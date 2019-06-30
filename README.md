@@ -19,3 +19,8 @@ This option will allow to get the output of Ultra96 DNNDK examples as Video_Anal
 ![Screenshot](https://logictronix.com/wp-content/uploads/2019/06/deephi-768x449.png)
 
 For any queries, please write us at: info@logictronix.com or sales@logictronix.com
+
+
+# Watch the Demo Video Tutorial of Deephi DNNDK Tutorial for Ultra96 from YouTube: https://youtu.be/up7xhicSbmk
+[![](http://img.youtube.com/vi/up7xhicSbmk/0.jpg)](http://www.youtube.com/watch?v=up7xhicSbmk "Deephi DNNDK Tutorial for Ultra96 FPGA")
+
